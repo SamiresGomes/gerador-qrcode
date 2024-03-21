@@ -1,0 +1,5 @@
+Para fazer um gerador de QrCode com Python,primeiramente preciso instalar a biblioteca no terminal:
+pip install qrcode
+
+Documentação:
+https://pypi.org/project/qrcode/
